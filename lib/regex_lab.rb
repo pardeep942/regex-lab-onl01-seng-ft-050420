@@ -17,5 +17,5 @@ text.match (/\A [A-Z])
 end
 
 def valid_phone_number?(phone)
-
+phone.match 
 end
